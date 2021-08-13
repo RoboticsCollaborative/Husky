@@ -11,7 +11,7 @@ There are two ways to setup the Husky software. Either you can do a fresh Ubuntu
 3) Setup the [Clearpath Robotics packages repository](http://packages.clearpathrobotics.com) 
 4) Install the Husky packages: 
 ```
-$ sudo apt-get install ros-kinetic-husky-robot
+$ sudo apt-get install ros-$ROS_DISTRO-husky-robot
 ```
 5) Install the udev rules that come with Husky:
 ```
